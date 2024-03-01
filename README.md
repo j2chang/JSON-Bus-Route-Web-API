@@ -1,5 +1,3 @@
-# Homework 6: Building a Database for UVA Bus Routes
-
 ## Author: 
 * Allison Kim - cgm7vq
 * Aaron Ko - wwr7nu
